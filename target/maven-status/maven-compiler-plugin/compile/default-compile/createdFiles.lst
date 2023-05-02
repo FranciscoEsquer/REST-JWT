@@ -1,0 +1,7 @@
+org\netbeans\rest\application\config\ApplicationConfig.class
+utils\Common.class
+com\mycompany\ejemplojwt\resources\LoginResource.class
+com\mycompany\ejemplojwt\resources\ClienteResource.class
+com\mycompany\ejemplojwt\entities\Cliente.class
+filter\JWTFilter.class
+com\mycompany\ejemplojwt\entities\Usuario.class
